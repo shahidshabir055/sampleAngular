@@ -1,0 +1,44 @@
+.section-title{
+  text-align: center;
+  padding-bottom: 30px;
+
+}
+.section-title h2{
+  color: blueviolet;
+  background: #e7f1fd;
+  letter-spacing: 1px;
+  padding: 8px 20px;
+  margin: 0;
+  display: inline-block;
+  border-radius: 50px;
+}
+
+.contianer-main{
+  border: 1px solid black;
+}
+.row-one{
+  width: 100vw;
+  height: 10vh;
+  display: flex;
+  justify-content: start;
+}
+.box-one{
+  width: 33vw;
+  height: 10vh;
+  background-color: aqua;
+
+}
+.box-two{
+  margin-left: 33vw;
+  width: 33vw;
+  height: 10vh;
+  background-color:blue;
+
+}
+.box-three{
+  margin-left: 66vw;
+  width: 33vw;
+  height: 10vh;
+  background-color: green;
+
+}
